@@ -12,7 +12,7 @@ Puis j'ai découvert qu'on pouvait faire pareil avec du code. **Saison 2 : recon
 ## 🎭 Le casting de la saison 2
 | Rôle | Technos | Niveau |
 |---|---|---|
-| ⭐ Rôles principaux | JavaScript | Node.js/Express | PostGreSQL | Intermédiaire |
+| ⭐ Rôles principaux | JavaScript · Node.js/Express · PostGreSQL | Intermédiaire |
 | 🎬 Second rôle qui monte | React | Débutante |
 | ✨ Guest star | TypeScript | Découverte |
 | 🛠️ Équipe technique | Git · Docker | Mode débrouille |
